@@ -1,0 +1,2 @@
+# simple-magazin
+Magazin Web
