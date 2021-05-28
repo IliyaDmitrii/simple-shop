@@ -1,1 +1,1 @@
-#npm start to run aoo
+#npm start to run app
