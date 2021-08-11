@@ -1,2 +1,2 @@
-# simple-magazin
-Magazin Web
+# simpleshop
+WEB SHOP
